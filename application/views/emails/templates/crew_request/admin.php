@@ -1,0 +1,1 @@
+<?php echo $crew_support_name.' ('.$crew_support_email.')'; ?> has requested for <?php echo ($job_type_name=='')?'Crew Request':$job_type_name.' Crew Support';
