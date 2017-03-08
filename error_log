@@ -1,0 +1,4 @@
+
+Mon, 25 Jan 2016 16:08:40 +0800 - Failed to cache: http://www.google.com/search?client=navclient-auto&ch=6-6342750124024598614&features=Rank&q=info:http://www.erginus.com
+Mon, 25 Jan 2016 16:08:40 +0800 - Failure reasons:  GET_FAIL  GET_FAIL  GET_FAIL 
+Mon, 25 Jan 2016 16:08:40 +0800Couldn't get Pagerank for http://www.erginus.com
