@@ -100,9 +100,9 @@ switch (ENVIRONMENT) {
 		break;
 	case 'testing':
 		$db['default']['hostname'] = 'localhost';
-		$db['default']['username'] = 'erginusn_increw';
-		$db['default']['password'] = 'YI8O5zD7R49Cy1OB';
-		$db['default']['database'] = 'erginusn_increw';
+		$db['default']['username'] = 'xxxxxxxxx';
+		$db['default']['password'] = 'xxxxxxxxx';
+		$db['default']['database'] = 'xxxxxxxxx';
 		break;
 	case 'production':
 		$db['default']['hostname'] = 'localhost';
